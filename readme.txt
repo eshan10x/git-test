@@ -2,4 +2,4 @@ hello world
 
 hello 
 ccccccccccc
-Welcome to github Desktop
+Welome to gitHub Desktop.
